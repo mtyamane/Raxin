@@ -2,6 +2,8 @@
 Raxin is a Discord bot that facilitates reaction polls.
 
 ## Installation Instructions
+Download and unpack ZIP file
+
 Create 'Raxin' as a new application in the [Discord developer portal](http://discord.com/developers/applications/)
 
 Add a bot to the application (Settings > Bot > Add Bot)
