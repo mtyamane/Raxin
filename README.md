@@ -6,6 +6,8 @@ Create 'Raxin' as a new application in the [Discord developer portal](http://dis
 
 Add a bot to the application (Settings > Bot > Add Bot)
 
+Optional: use Raxin.png as the App Icon
+
 Copy the bot token
 
 Replace TOKEN in line 12 of poll.js with the copied token
